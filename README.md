@@ -69,12 +69,12 @@ pip install bokeh
 1. Clone o repositório do projeto.
 2. Instale as dependências listadas acima.
 3. Execute, no diretório raiz do projeto, com o python3
-```
 
 ### Conclusões
 
 > Podemos ver que, ainda existe alguma aleatoriedade no sistema, portanto algumas vezes, ao executar o algoritmo mais centróides que o necessário é usada. No entanto, algumas vezes a convergência para 4 centróides é recorrente, que é a mais correta para essa base de dados.
 
+```
 
 🚀🔍💡
 
